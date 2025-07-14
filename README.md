@@ -42,7 +42,7 @@
 ![System Diagram](pokemon_api/images/system_diagram.png)
 
 ## コード説明図
-![Code Diagram](images/code_diagram.png)
+![Code Diagram](pokemon_api/images/code_diagram.png)
 
 
 ## 動かすとき
