@@ -39,7 +39,7 @@
 ├── requirements.txt # 必要パッケージ一覧
 
 ## システム設計図
-![System Diagram](images/system_diagram.png)
+![System Diagram](pokemon_api/images/system_diagram.png)
 
 ## コード説明図
 ![Code Diagram](images/code_diagram.png)
