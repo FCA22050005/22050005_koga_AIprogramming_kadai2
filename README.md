@@ -38,6 +38,13 @@
 ├── README.md # このファイル
 ├── requirements.txt # 必要パッケージ一覧
 
+## システム設計図
+![System Diagram](C:\pokemon_api\images\コード説明図.png)
+
+## コード説明図
+![Code Diagram](C:\pokemon_api\images\コード説明図.png)
+
+
 ## 動かすとき
 
 1. cd C:\pokemon_api
