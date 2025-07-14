@@ -5,7 +5,7 @@ import pandas as pd
 st.title("ポケモン図鑑アプリ")
 st.write("ポケモンの名前を入力すると、情報を表示します。")
 
-pokemon_name = st.text_input("ポケモン名（英語）\n 例: pikachu")
+pokemon_name = st.text_input("ポケモン名（英語）例: pikachu")
 
 if st.button("検索"):
     if pokemon_name:
