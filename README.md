@@ -44,6 +44,11 @@
 ## コード説明図
 ![Code Diagram](pokemon_api/images/code_diagram.png)
 
+## メモ　これを課題１のところに書く
+- アプリURL: https://22050005kogaaiprogrammingkadai2-6xbbidsvoub5kw9bls39bc.streamlit.app/
+- GitHub URL: https://github.com/your-username/22050005_koga_AIprogramming_kadai2
+- 加点の有無: 有り
+- その他コメント： ポケモンのAPIでポケモン検索ができることにびっくりしました。ただ、検索を英語の名前じゃないといけないのが不便です。
 
 ## 動かすとき
 
