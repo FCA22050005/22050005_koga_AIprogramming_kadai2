@@ -77,19 +77,6 @@
 - ポケモンステータス、タイプ相性、性格補正を保存  
 - ユーザーID・チームIDで紐付け
 
-### UI/UXイメージ
-- チーム管理ダッシュボード  
-
-![チーム管理イメージ](https://via.placeholder.com/600x300?text=Team+Dashboard)
-
-- タイプ相性チャート  
-
-![タイプ相性チャート](https://via.placeholder.com/600x300?text=Type+Effectiveness+Chart)
-
-- バトルシミュレーション画面  
-
-![バトルシミュレーション](https://via.placeholder.com/600x300?text=Battle+Simulator)
-
 ---
 
 ## 3. 新規性・価値
@@ -116,5 +103,6 @@
 - AIによるチーム戦略アドバイス
 - ポケモンゲームのタイトルごとの攻略情報
 - ユーザー生成コンテンツ（自作ポケモン紹介、空想最強ポケモンなど）
+
 
 
