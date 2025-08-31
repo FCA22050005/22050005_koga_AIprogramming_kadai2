@@ -57,3 +57,4 @@
 2. streamlit run app.py
 
 ## 課題３　ポケモンアプリの改善案
+-improvement.mdへのリンク：https://github.com/FCA22050005/22050005_koga_AIprogramming_kadai2/blob/main/improvement.md
