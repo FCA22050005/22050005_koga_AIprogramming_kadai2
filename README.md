@@ -55,3 +55,5 @@
 1. cd C:\pokemon_api
 ↑　Dドライブにこのファイルがあるなら、cd D:\pokemon_api です。
 2. streamlit run app.py
+
+## 課題３　ポケモンアプリの改善案
